@@ -1,3 +1,8 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Benjamin Küttner <benjamin.kuettner@icloud.com>
+# Patent Pending — DE Gebrauchsmuster, filed 2026-02-23
+# See PATENT-PRIORITY.md for full priority documentation.
+
 """
 sigil-protocol — SIGIL security layer for AI agent tool calls.
 
